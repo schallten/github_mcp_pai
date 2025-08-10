@@ -8,7 +8,7 @@ This project extends [Puch.ai](https://puch.ai) with powerful GitHub automation,
 
 ### 🚀 Try it instantly
 
-Open WhatsApp and send the following message to `+91 99988 81729`:
+Open WhatsApp and send the following message to `+91 99988 81729` or [click here](https://wa.me/919998881729?text=%2Fmcp%20use%20zu9J6yRUJJ):
 
 ```
 /mcp use zu9J6yRUJJ
